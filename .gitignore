@@ -1,0 +1,11 @@
+# Configuración
+.idea/
+.vscode/
+__pycache__/
+
+# Virtualización
+venv/
+
+# Ficheros auxiliares
+*.eml
+*.json
